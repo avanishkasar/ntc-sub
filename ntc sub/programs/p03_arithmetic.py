@@ -1,0 +1,10 @@
+number_1 = int(input("enter 1st number:  "))
+number_2 = int(input("enter 2nd number: "))
+sum = number_1 + number_2
+minus = number_1 - number_2
+multiply = number_1 * number_2
+divide = number_1 / number_2
+print(f"sum = {sum} ")
+print(f"minus = {minus} ")
+print(f"multiply = {multiply} ")
+print(f"divide = {divide} ")
